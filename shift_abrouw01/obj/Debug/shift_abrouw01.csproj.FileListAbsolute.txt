@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\C# Programming\shift_abrouw01\shift_abrouw01\bin\Debug\shift_abrouw01.exe.config
+C:\Users\Alex\Desktop\C# Programming\shift_abrouw01\shift_abrouw01\bin\Debug\shift_abrouw01.exe
+C:\Users\Alex\Desktop\C# Programming\shift_abrouw01\shift_abrouw01\bin\Debug\shift_abrouw01.pdb
+C:\Users\Alex\Desktop\C# Programming\shift_abrouw01\shift_abrouw01\obj\Debug\shift_abrouw01.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\C# Programming\shift_abrouw01\shift_abrouw01\obj\Debug\shift_abrouw01.exe
+C:\Users\Alex\Desktop\C# Programming\shift_abrouw01\shift_abrouw01\obj\Debug\shift_abrouw01.pdb
